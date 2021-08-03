@@ -1,0 +1,13 @@
+a {
+  color: white;
+  text-decoration: none;
+
+  &:hover,
+  &:active {
+    color: lightgray;
+  }
+}
+
+.nav-caption {
+  padding-left: 6px;
+}
